@@ -2,8 +2,8 @@
 title: Alena Ernst
 feature_text: |
   ## Alena
-  Welcome to my homepage!
-feature_image:   /includes/PXL_20230624_123912558.jpg
+  Welcome to my homepage!  
+feature_image:   "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
