@@ -107,7 +107,7 @@ body {
 .nav--paginator {
   @include flexbox;
   @include justify-content(space-between);
-  color: $captionColour;
+  color: #0e77ab;
   text-align: center;
 }
 
