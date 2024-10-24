@@ -3,7 +3,7 @@ title: About me
 feature_text: |
   ## It's me!
   Welcome to my homepage!  
-feature_image:   "https://picsum.photos/1300/400?image=989"
+feature_image:   "/assets/my-picture.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
