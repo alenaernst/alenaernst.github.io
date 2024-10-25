@@ -12,7 +12,7 @@ aside: true
 * Paper 1 
 * Paper 2
 
-## Heading 2
+### Talks
 
 ### Heading 3
 
