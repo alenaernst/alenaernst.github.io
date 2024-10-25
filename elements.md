@@ -1,13 +1,16 @@
 ---
-title: Research #Elements
+title: Research 
 feature_text: |
-  A demo of Markdown and HTML includes
+[//]: #  A demo of Markdown and HTML includes
 feature_image: "/assets/my-picturecut3.jpg"  
 excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-# Heading 1
+# Publications
+
+* Paper 1
+* Paper 2
 
 ## Heading 2
 
