@@ -7,9 +7,9 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-# Publications
+### Publications
 
-* Paper 1 n
+* Paper 1 
 * Paper 2
 
 ## Heading 2
