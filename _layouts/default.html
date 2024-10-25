@@ -36,7 +36,7 @@
       <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
     {% endif %}
 
-   <link rel="icon" href="/assets/favicon.png" type="image/png">
+    {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}
 
 
     {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
