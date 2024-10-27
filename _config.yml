@@ -125,6 +125,8 @@ navigation_header:
   url: /
 - title: Research
   url: /elements/
+- title: Contact
+  url: /contact/
 #- title: Contact
 #  url: /blog/
 
