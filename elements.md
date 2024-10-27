@@ -1,5 +1,5 @@
 ---
-title: Research 
+title: Research 1
 feature_text: |
  A demo of Markdown and HTML includes
 feature_image: "/assets/my-picturecut3.jpg"  
@@ -7,7 +7,7 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-### Publications
+### Publications 1
 
 * Paper 1 
 * Paper 2
