@@ -125,10 +125,10 @@ navigation_header:
   url: /
 - title: Research
   url: /elements/
-- title: Research2  
+- title: Contact  
   url: /elements2/
-- title: Contact
-  url: /blog/
+#- title: Contact
+#  url: /blog/
 
 
 navigation_footer:
