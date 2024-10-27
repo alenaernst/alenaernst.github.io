@@ -1,5 +1,5 @@
 ---
-title: Research 2
+title: Contact
 feature_text: |
  A demo of Markdown and HTML includes
 feature_image: "/assets/my-picturecut3.jpg"  
@@ -7,12 +7,17 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-### Publications 2
+### Email
 
-* Paper 1 
-* Paper 2
+alena (dot) ernst (at) math (dot) upb (dot) de
 
-### Talks
+
+### Adress
+
+Paderborn University
+Warburger Str. 100
+33098 Paderborn
+Germany
 
 ### Heading 3
 
