@@ -11,8 +11,10 @@ excerpt: "A demo of Markdown and HTML includes"
 
 *  Transitivity in finite general linear groups,  <br>
    **Math. Z.** 307, 45 (2024) <br>
-   [A link](https://arxiv.org/abs/2209.07927 "arXiv"), [A link](https://link.springer.com/article/10.1007/s00209-024-03511-x "journal")
-* Paper 2
+   [arXiv](https://arxiv.org/abs/2209.07927 "arXiv"), [journal](https://link.springer.com/article/10.1007/s00209-024-03511-x "journal")
+*  Intersection theorems for finite general linear groups, <br>
+   **Math. Proc. Cambridge Philos. Soc.** 175(1), 129-160, 2023. <br>
+   [arXiv](https://web3.arxiv.org/abs/2205.08456 "arXiv"), [journal](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/intersection-theorems-for-finite-general-linear-groups/5007627D69D7EEC667D102463ECA0A9C "journal")
 
 ### Talks
 
