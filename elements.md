@@ -4,7 +4,7 @@ feature_text: |
  A demo of Markdown and HTML includes
 feature_image: "/assets/my-picturecut3.jpg"  
 excerpt: "A demo of Markdown and HTML includes"
-aside: true
+<!-- aside: true -->
 ---
 
 ### Publications 1
