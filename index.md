@@ -1,7 +1,7 @@
 ---
 title: About me
 feature_text: |
-  ## It's me!
+  ## Alena Ernst!
   Welcome to my homepage!  
 feature_image:   "/assets/my-picturecut.jpg"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
