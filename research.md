@@ -1,10 +1,10 @@
 ---
 title: Research 
 feature_text: |
- A demo of Markdown and HTML includes
+ <!--A demo of Markdown and HTML includes -->
 feature_image: "/assets/my-picturecut3.jpg"  
 excerpt: "A demo of Markdown and HTML includes"
-<!-- aside: true -->
+aside: false
 ---
 
 My research interests lie in **combinatorics**, particularly in **extremal combinatorics**, which includes the study of **Erdős-Ko-Rado theorems**, as well as **algebraic combinatorics**. I am especially interested in algebraic combinatorics because it involves the theory of **association schemes**, also providing a framework for addressing questions in extremal combinatorics. Additionally, I have a keen interest in the **representation theory** of finite groups, as it is essential for studying certain association schemes.
