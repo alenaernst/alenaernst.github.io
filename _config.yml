@@ -139,13 +139,13 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
 # Twitter: https://twitter.com/DavidDarnes
+  orcid: https://orcid.org/0009-0008-0690-6440
   LinkedIn: https://www.linkedin.com/in/alena-ernst-481586307/?originalSubdomain=de
 #  LinkedIn: https://www.linkedin.com/in/daviddarnes
   GitHub: https://alenaernst.github.io/ 
 #  GitHub: https://github.com/daviddarnes
 #  link: https://darn.es
 #  RSS: /feed.xml
-  orcid: https://orcid.org/0009-0008-0690-6440
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
   Twitter: "#0d94e7"
