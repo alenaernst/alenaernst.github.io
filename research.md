@@ -23,7 +23,7 @@ My research interests lie in **combinatorics**, particularly in **extremal combi
    [arXiv](https://web3.arxiv.org/abs/2205.08456), [journal](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/intersection-theorems-for-finite-general-linear-groups/5007627D69D7EEC667D102463ECA0A9C)
 
 ### Talks
-
+(invited talks are marked with ✦)
 
 *  _Subsets of finite general linear groups_ <br>
  Combinatorics 2024, in Carovigno, Italy
@@ -31,10 +31,10 @@ My research interests lie in **combinatorics**, particularly in **extremal combi
 *  _Transitivity in finite general linear groups_ <br>
  Combinatorial Constructions Conference, in Dubrovnik, Croatia
 
-*  _Designs in finite general linear groups_ <br>
+*  _Designs in finite general linear groups_ ✦ <br>
   DCUCD Discrete mathematics seminars, in Dublin, Ireland
  
-*  _Designs in finite general linear groups_ <br>
+*  _Designs in finite general linear groups_ ✦ <br>
   Algebraic combinatorics seminar at the University of Winsconsin, Madison, US (online)
 
 *  _Erdős-Ko-Rado theorems for finite general linear groups_ <br>
@@ -42,17 +42,22 @@ My research interests lie in **combinatorics**, particularly in **extremal combi
 
 *  _Erdős-Ko-Rado theorems for finite general linear groups_ <br>
  RICCOTA, Rijeka Conference on Combinatorial Objects and their Applications, in Rijeka, Croatia
+
 *   _Erdős-Ko-Rado theorems for finite general linear groups_ <br>
  Slovenian Conference on graph theory, in Kranjska Gora, Slovenia
-*  _Intersection theorems for finite general linear groups_ <br>
+
+*  _Intersection theorems for finite general linear groups_ ✦ <br>
  Talk publicly available, University of Waterloo virtual algebraic graph theory seminars, Waterloo, Canada (online)
+
 *  _Erdős-Ko-Rado theorems for finite general linear groups_ <br>
  Kolkom - Colloquium on Combinatorics, in Paderborn, Germany
+
 *  _Intersecting theorems for finite general linear groups_ <br>
  Irsee Conference - Finite geometries, in Irsee, Germany
+
 * _Intersecting theorems for finite general linear groups_ <br>
   Combinatorics 2022, in Mantova, Italy
 
  
-<li>✦ 
+
 
