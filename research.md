@@ -31,7 +31,7 @@ My research interests lie in **combinatorics**, particularly in **extremal combi
 *  _Transitivity in finite general linear groups_ <br>
  Combinatorial Constructions Conference, in Dubrovnik, Croatia
 
-✦  _Designs in finite general linear groups_ <br>
+*<class=noindented-symbol>  _Designs in finite general linear groups_ <br>
   DCUCD Discrete mathematics seminars, in Dublin, Ireland
  
 ✦  _Designs in finite general linear groups_ <br>
