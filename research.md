@@ -7,7 +7,7 @@ excerpt: "A demo of Markdown and HTML includes"
 <!-- aside: true -->
 ---
 
-My research interest lies within discrete mathematics.
+My research interest lie in combinatorics, especially in **extremal** and **algebraic combinatorics**. Whereas the latter is of special interest for me because it particularly involves the theory of **association schemes** giving a framework to answer questions of the former. Moreover this often involves the **representation theory** of finite groups.  
 
 ### Publications 
 
