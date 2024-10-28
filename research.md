@@ -23,7 +23,7 @@ My research interests lie in **combinatorics**, particularly in **extremal combi
    [arXiv](https://web3.arxiv.org/abs/2205.08456), [journal](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/intersection-theorems-for-finite-general-linear-groups/5007627D69D7EEC667D102463ECA0A9C)
 
 ### Talks
-(invited talks are marked with ✦)
+<small>(invited talks are marked with ✦)</small>
 
 *  _Subsets of finite general linear groups_ <br>
  Combinatorics 2024, in Carovigno, Italy
