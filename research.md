@@ -18,8 +18,8 @@ excerpt: "A demo of Markdown and HTML includes"
 
 ### Talks
 
-*_Subsets of finite general linear groups_ <br>
+*  _Subsets of finite general linear groups_ <br>
  Combinatorics 2024, in Carovigno, Italy 
-*_Transitivity in finite general linear groups_ <br>
+*  _Transitivity in finite general linear groups_ <br>
  Combinatorial Constructions Conference, in Dubrovnik, Croatia
 
