@@ -24,17 +24,17 @@ My research interests lie in **combinatorics**, particularly in **extremal combi
 
 ### Talks
 
-&#9733; Item One
+
 *  _Subsets of finite general linear groups_ <br>
  Combinatorics 2024, in Carovigno, Italy
 
 *  _Transitivity in finite general linear groups_ <br>
  Combinatorial Constructions Conference, in Dubrovnik, Croatia
 
-*<class=noindented-symbol>  _Designs in finite general linear groups_ <br>
+*  _Designs in finite general linear groups_ <br>
   DCUCD Discrete mathematics seminars, in Dublin, Ireland
  
-✦  _Designs in finite general linear groups_ <br>
+*  _Designs in finite general linear groups_ <br>
   Algebraic combinatorics seminar at the University of Winsconsin, Madison, US (online)
 
 *  _Erdős-Ko-Rado theorems for finite general linear groups_ <br>
@@ -52,4 +52,7 @@ My research interests lie in **combinatorics**, particularly in **extremal combi
  Irsee Conference - Finite geometries, in Irsee, Germany
 * _Intersecting theorems for finite general linear groups_ <br>
   Combinatorics 2022, in Mantova, Italy
+
+ 
+<li>✦ 
 
