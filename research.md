@@ -9,7 +9,8 @@ excerpt: "A demo of Markdown and HTML includes"
 
 ### Publications 
 
-* Paper 1 
+*  Transitivity in finite general linear groups,  <br>
+   **Math. Z.** 307, 45 (2024)
 * Paper 2
 
 ### Talks
