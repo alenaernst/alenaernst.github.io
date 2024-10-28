@@ -24,6 +24,7 @@ My research interests lie in **combinatorics**, particularly in **extremal combi
 
 ### Talks
 
+<li>&#9733; Item One</li> 
 *  _Subsets of finite general linear groups_ <br>
  Combinatorics 2024, in Carovigno, Italy 
 *  _Transitivity in finite general linear groups_ <br>
