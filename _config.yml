@@ -137,8 +137,10 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
 # Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
+  LinkedIn: https://www.linkedin.com/in/alena-ernst-481586307/?originalSubdomain=de
+#  LinkedIn: https://www.linkedin.com/in/daviddarnes
+  GitHub: https://alenaernst.github.io/ 
+#  GitHub: https://github.com/daviddarnes
 #  link: https://darn.es
 #  RSS: /feed.xml
 
