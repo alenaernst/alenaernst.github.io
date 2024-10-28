@@ -7,7 +7,7 @@ excerpt: "A demo of Markdown and HTML includes"
 <!-- aside: true -->
 ---
 
-My research interest lie in combinatorics, especially in **extremal** and **algebraic combinatorics**. Whereas the latter is of special interest for me because it particularly involves the theory of **association schemes** giving a framework to answer questions of the former. Moreover this often involves the **representation theory** of finite groups.  
+My research interest lie in **combinatorics**, especially in **extremal combinatorics**, including the study of Erdős-Ko-Rado theorems, and **algebraic combinatorics**. Whereas the latter is of special interest for me because it particularly involves the theory of **association schemes** providing a framework to answer questions of the former. Furthermore the **representation theory** of finite groups is another of my research interests since it is necessary for the study of certain association schemes.  
 
 ### Publications 
 
