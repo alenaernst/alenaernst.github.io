@@ -25,11 +25,12 @@ My research interests lie in **combinatorics**, particularly in **extremal combi
 ### Talks
 
 &#9733; Item One
-<li>✦ subsets
 *  _Subsets of finite general linear groups_ <br>
- Combinatorics 2024, in Carovigno, Italy 
+ Combinatorics 2024, in Carovigno, Italy
+
 *  _Transitivity in finite general linear groups_ <br>
  Combinatorial Constructions Conference, in Dubrovnik, Croatia
+
 *  _Designs in finite general linear groups_ <br>
   DCUCD Discrete mathematics seminars, in Dublin, Ireland
 *  _Designs in finite general linear groups_ <br>
