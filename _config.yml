@@ -76,7 +76,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/favicon.png " #small picture coming up when sharing the link
+      image: "/assets/thumbnail.png" #small picture coming up when sharing the link
     #  image: "/assets/default-social-image.png" # Default image for sharing
   -
     scope:
