@@ -3,7 +3,7 @@ title: Contact
 feature_text: |
  <!-- A demo of Markdown and HTML includes -->
 feature_image: "/assets/my-picturecut3.jpg"  
-excerpt: "contact | Alena Ernst"
+excerpt: "contact - Alena Ernst"
 aside: true
 ---
 
