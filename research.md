@@ -31,10 +31,10 @@ My research interests lie in **combinatorics**, particularly in **extremal combi
 *  _Transitivity in finite general linear groups_ <br>
  Combinatorial Constructions Conference, in Dubrovnik, Croatia
 
-<li>✦  _Designs in finite general linear groups_ <br>
+✦  _Designs in finite general linear groups_ <br>
   DCUCD Discrete mathematics seminars, in Dublin, Ireland
  
-<li>✦  _Designs in finite general linear groups_ <br>
+✦  _Designs in finite general linear groups_ <br>
   Algebraic combinatorics seminar at the University of Winsconsin, Madison, US (online)
 
 *  _Erdős-Ko-Rado theorems for finite general linear groups_ <br>
