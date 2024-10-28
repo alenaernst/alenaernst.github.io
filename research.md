@@ -22,12 +22,18 @@ excerpt: "A demo of Markdown and HTML includes"
  Combinatorics 2024, in Carovigno, Italy 
 *  _Transitivity in finite general linear groups_ <br>
  Combinatorial Constructions Conference, in Dubrovnik, Croatia
+*  _Designs in finite general linear groups_ <br>
+  DCUCD Discrete mathematics seminars, in Dublin, Ireland
+*  _Designs in finite general linear groups_ <br>
+  Algebraic combinatorics seminar at the University of Winsconsin, Madison, US (online)
 *  _Erdős-Ko-Rado theorems for finite general linear groups_ <br>
  ACC-Australasian Combinatorial Conference, in Perth, Australia
 *  _Erdős-Ko-Rado theorems for finite general linear groups_ <br>
  RICCOTA, Rijeka Conference on Combinatorial Objects and their Applications, in Rijeka, Croatia
 *   _Erdős-Ko-Rado theorems for finite general linear groups_ <br>
  Slovenian Conference on graph theory, in Kranjska Gora, Slovenia
+*  _Intersection theorems for finite general linear groups_ <br>
+ Talk publicly available, University of Waterloo virtual algebraic graph theory seminars, Waterloo, Canada (online)
 *  _Erdős-Ko-Rado theorems for finite general linear groups_ <br>
  Kolkom - Colloquium on Combinatorics, in Paderborn, Germany
 *  _Intersecting theorems for finite general linear groups_ <br>
