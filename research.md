@@ -9,14 +9,17 @@ excerpt: "A demo of Markdown and HTML includes"
 
 ### Publications 
 
-*  _Transitivity in finite general linear groups_,  <br>
+*  _Transitivity in finite general linear groups_ (joint with Kai-Uwe Schmidt),  <br>
    **Math. Z.** 307, 45 (2024) <br>
    [arXiv](https://arxiv.org/abs/2209.07927 "arXiv"), [journal](https://link.springer.com/article/10.1007/s00209-024-03511-x "journal")
-*  _Intersection theorems for finite general linear groups_, <br>
+*  _Intersection theorems for finite general linear groups_ (joint with Kai-Uwe Schmidt), <br>
    **Math. Proc. Cambridge Philos. Soc.** 175(1), 129-160, 2023. <br>
    [arXiv](https://web3.arxiv.org/abs/2205.08456 "arXiv"), [journal](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/intersection-theorems-for-finite-general-linear-groups/5007627D69D7EEC667D102463ECA0A9C "journal")
 
 ### Talks
 
-*List
+*_Subsets of finite general linear groups_ <br>
+ Combinatorics 2024, in Carovigno, Italy 
+*_Transitivity in finite general linear groups_ <br>
+ Combinatorial Constructions Conference, in Dubrovnik, Croatia
 
