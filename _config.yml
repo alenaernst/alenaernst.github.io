@@ -133,8 +133,8 @@ navigation_header:
 
 
 navigation_footer:
-- title: Alena Ernst
-  url: /
+- #title: Alena Ernst #my name was too often on the website
+  #url: /
   # url: https://darn.es 
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
