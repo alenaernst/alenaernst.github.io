@@ -7,6 +7,8 @@ excerpt: "A demo of Markdown and HTML includes"
 <!-- aside: true -->
 ---
 
+My research interest lies within discrete mathematics.
+
 ### Publications 
 
 *  _Transitivity in finite general linear groups_ (joint with Kai-Uwe Schmidt),  <br>
