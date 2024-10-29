@@ -7,7 +7,7 @@ excerpt: "research - Alena Ernst"
 aside: false
 ---
 
-My research interests lie in **algebraic** and **extremal combinatorics**, particularly in the theory of **association schemes** and the study of **Erdős-Ko-Rado theorems**. Additionally, I have a keen interest in the **representation theory** of finite groups, as it is essential for studying certain association schemes.
+My research interests lie in **algebraic** and **extremal combinatorics**, particularly in the theory of **association schemes** and the study of **Erdős-Ko-Rado theorems**. The methods I like to use also involve group theory, and in this context I developed a keen interest in **representation theory** of finite groups.
 
 <!-- My research interests lie in **combinatorics**, particularly in **extremal combinatorics**, which includes the study of **Erdős-Ko-Rado theorems**, as well as **algebraic combinatorics**. I am especially interested in algebraic combinatorics because it involves the theory of **association schemes**, also providing a framework for addressing questions in extremal combinatorics. Additionally, I have a keen interest in the **representation theory** of finite groups, as it is essential for studying certain association schemes. -->
 
