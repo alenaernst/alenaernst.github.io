@@ -8,7 +8,7 @@ excerpt: "Alena Ernst"
 ---
 
 Hi there! 
-I am a PhD student in discrete mathematics at Paderborn University, Germany. My research interests focus on **algebraic combinatorics**, particularly the theory of **association schemes**, on **extremal combinatorics**, especially **Erdős–Ko–Rado problems**, and on the **representation theory** of finite groups. I began my PhD under the supervision of Kai-Uwe Schmidt (&dagger Aug 2023), and I am currently continuing my research under the supervision of Margit Rösler.
+I am a PhD student in discrete mathematics at Paderborn University, Germany. My research interests focus on **algebraic combinatorics**, particularly the theory of **association schemes**, on **extremal combinatorics**, especially **Erdős–Ko–Rado problems**, and on the **representation theory** of finite groups. I began my PhD under the supervision of Kai-Uwe Schmidt († Aug 2023), and I am currently continuing my research under the supervision of Margit Rösler.
 
 <!-- {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} -->
 
