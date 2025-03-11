@@ -161,6 +161,3 @@ fonts:
     - https://fonts.gstatic.com
   font_urls:
     - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
-
-#This is the verification code i needed to claim ownership of my website when i added it to the google search:  
-google_site_verification: "ce7c13766bb3f94f"
