@@ -15,12 +15,15 @@ My research interests lie in **algebraic** and **extremal combinatorics**, parti
 
 ### Publications 
 
+* _Subsets in finite general linear groups_ <br>
+PhD thesis, **Paderborn University** (2025) <br>
+[Link](https://digital.ub.uni-paderborn.de/doi/10.17619/UNIPB/1-2190)
 *  _Transitivity in finite general linear groups_ <br>
    **Math. Z.** 307, 45 (2024) <br>
    (joint with Kai-Uwe Schmidt),  <br>
    [arXiv](https://arxiv.org/abs/2209.07927), [journal](https://link.springer.com/article/10.1007/s00209-024-03511-x)
 *  _Intersection theorems for finite general linear groups_ <br>
-   **Math. Proc. Cambridge Philos. Soc.** 175(1), 129-160, 2023. <br>
+   **Math. Proc. Cambridge Philos. Soc.** 175(1), 129-160 (2023). <br>
     (joint with Kai-Uwe Schmidt), <br>
    [arXiv](https://web3.arxiv.org/abs/2205.08456), [journal](https://www.cambridge.org/core/journals/mathematical-proceedings-of-the-cambridge-philosophical-society/article/intersection-theorems-for-finite-general-linear-groups/5007627D69D7EEC667D102463ECA0A9C)
 
