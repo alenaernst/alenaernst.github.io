@@ -9,13 +9,15 @@ aside: true
 
 ### Email
 
-alena (dot) ernst (at) math (dot) upb (dot) de
+aernst (at) wpi (dot) edu
 
 
 ### Adress
 
-Paderborn University <br>
-Warburger Str. 100 <br>
-33098 Paderborn <br>
-Germany
+Worcester Polytechnic Institute <br>
+100 Institute Rd. <br>
+Worcester, MA <br>
+01609 <br>
+USA
+
  
