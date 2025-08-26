@@ -16,7 +16,7 @@ My research interests lie in **algebraic** and **extremal combinatorics**, parti
 ### Publications 
 
 * _Subsets in finite general linear groups_ <br>
-PhD thesis, **Paderborn University** (2025) <br>
+PhD thesis, **Paderborn University** (2024) <br>
 [Link](https://digital.ub.uni-paderborn.de/doi/10.17619/UNIPB/1-2190)
 *  _Transitivity in finite general linear groups_ <br>
    **Math. Z.** 307, 45 (2024) <br>
