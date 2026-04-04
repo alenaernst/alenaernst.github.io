@@ -36,7 +36,7 @@ CMS Winter Meeting, Toronto, Canada
 * _Intersecting families in symmetric and linear groups_ ✦ <br>
 Department of Mathematical Sciences Colloquium, WPI, Worcester, MA, USA
 
-* _An Introduction to the World of Erdos–Ko–Rado Problems_<br>
+* _An Introduction to the World of Erdős–Ko–Rado Problems_<br>
 Discrete Math Seminar, WPI, Worcester, MA, USA
 
 *  _Subsets of finite general linear groups_ <br>
