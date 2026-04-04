@@ -30,6 +30,15 @@ PhD thesis, **Paderborn University** (2024) <br>
 ### Talks
 <small>(invited talks are marked with ✦)</small>
 
+* _Designs in finite general linear groups_ ✦ <br>
+CMS Winter Meeting, Toronto, Canada
+
+* _Intersecting families in symmetric and linear groups_ ✦ <br>
+Department of Mathematical Sciences Colloquium, WPI, Worcester, MA, USA
+
+* _An Introduction to the World of Erdos–Ko–Rado Problems_<br>
+Discrete Math Seminar, WPI, Worcester, MA, USA
+
 *  _Subsets of finite general linear groups_ <br>
  Combinatorics 2024, in Carovigno, Italy
 
