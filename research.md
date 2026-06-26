@@ -15,6 +15,10 @@ My research interests lie in **algebraic** and **extremal combinatorics**, parti
 
 ### Publications 
 
+*  _Generalising Latin square orthogonality and Frobenius-König with alternating sign matrices_ <br>
+   under review <br>
+   (joint with S. Lia, C. O'Brien, J. Sheekey, J. Zumbrägel),  <br>
+   [arXiv](https://arxiv.org/abs/2606.25884)
 * _Subsets in finite general linear groups_ <br>
 PhD thesis, **Paderborn University** (2024) <br>
 [PDF](https://digital.ub.uni-paderborn.de/doi/10.17619/UNIPB/1-2190)
