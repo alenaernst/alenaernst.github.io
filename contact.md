@@ -9,7 +9,7 @@ aside: true
 
 ### Email
 
-alena.ernst (at) math (dot) upb (dot) de
+alena (dot) ernst (at) math (dot) upb (dot) de
 <!--aernst (at) wpi (dot) edu -->
 
 
