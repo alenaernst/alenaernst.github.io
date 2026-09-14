@@ -8,7 +8,11 @@ excerpt: "Alena Ernst"
 ---
 
 Hi there! 
-I am currently a Postdoctoral Scholar at Worcester Polytechnic Institute in Worcester, MA, USA, where I work with Bill Martin. I earned my doctorate at Paderborn University, Germany, under the supervision of Kai-Uwe Schmidt and Margit Rösler. My research interests are in discrete mathematics, particularly **algebraic** and **extremal combinatorics**, as well as the **representation theory** of finite groups.
+I am a mathematical researcher specialising in discrete mathematics. Most recently, I was a Postdoctoral Scholar at Worcester Polytechnic Institute in Worcester, MA, USA, where I worked with Bill Martin. I completed my PhD at Paderborn University, Germany, under the supervision of Kai-Uwe Schmidt and Margit Rösler. My research focuses on **algebraic** and **extremal combinatorics**, as well as the **representation theory** of finite groups.
+
+<!-- old version: -->
+<!-- Hi there! 
+I am currently a Postdoctoral Scholar at Worcester Polytechnic Institute in Worcester, MA, USA, where I work with Bill Martin. I earned my doctorate at Paderborn University, Germany, under the supervision of Kai-Uwe Schmidt and Margit Rösler. My research interests are in discrete mathematics, particularly **algebraic** and **extremal combinatorics**, as well as the **representation theory** of finite groups.-->
 
 <!-- Version before I joined WPI: -->
 <!-- I am a PhD student in discrete mathematics at Paderborn University, Germany. My research interests mainly focus on **algebraic** and **extremal combinatorics**, and also includes the **representation theory** of finite groups. I began my PhD studies under the supervision of Kai-Uwe Schmidt, and I am currently continuing my research under the supervision of Margit Rösler. -->
