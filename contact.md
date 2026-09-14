@@ -9,15 +9,16 @@ aside: true
 
 ### Email
 
-aernst (at) wpi (dot) edu
+alena.ernst (at) math (dot) upb (dot) de
+<!--aernst (at) wpi (dot) edu -->
 
 
-### Adress
+<!-- ### Adress
 
 Worcester Polytechnic Institute <br>
 100 Institute Rd. <br>
 Worcester, MA <br>
 01609 <br>
-USA
+USA -->
 
  
